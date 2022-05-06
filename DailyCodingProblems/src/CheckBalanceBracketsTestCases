@@ -1,0 +1,14 @@
+TestCase 1: "([])[]({})"
+output: true
+
+TestCase 2: "([)]"
+output: false
+
+TestCase 3: "((()"
+output : false
+
+TestCase 4: "(){}[]"
+output: true
+
+TestCase 5: "({[}])"
+output : false
