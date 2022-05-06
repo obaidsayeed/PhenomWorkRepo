@@ -1,0 +1,14 @@
+TestCase 1: [(30, 75), (0, 50), (60, 150)]
+Output: 2
+
+TestCase 2: [(40, 80), (90, 100), (110, 150)]
+Output: 1
+
+TestCase 3: [(30, 75), (15 45)]
+Output: 2
+
+TestCase 4: [(40, 75), (0, 50), (45, 150)]
+Output: 3
+
+TestCase 5:[]
+Output: 0
