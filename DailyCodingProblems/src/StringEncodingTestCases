@@ -1,0 +1,14 @@
+TestCase 1:"AAAABBBCCDAA"
+Output : "4A3B2C1D2A"
+
+TestCase 2: "ABCDABCD"
+Output : "1A1B1C1D1A1B1C1D"
+
+TestCase 3: "AABCDALUDUDX"
+Output: "AABCDALUDUDX"
+
+TestCase 4: "abcdefg"
+Output: 1a1b1c1d1e1f1g
+
+TestCase 5:"ABACDCBA"
+Output: "1A1B1A1C1D1C1B1A"
